@@ -1,0 +1,11 @@
+{
+	"vnflist": [
+					{ "name": "MME",
+					"vnfd": "MME1111"	
+					}, 
+					{"name": "EPG",
+					"vnfd": "EPG22222"
+					}			
+			   ]
+
+}
